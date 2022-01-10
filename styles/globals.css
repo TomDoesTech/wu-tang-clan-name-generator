@@ -28,16 +28,25 @@ body {
   line-height: 0.5;
   text-align: center;
   text-shadow: 1px 1px #000, 2px 2px #000;
-  font-size: 1rem;
+  font-weight: 700;
+  font-size: 5rem;
+}
+
+p {
+  font-size: 5rem;
 }
 
 input {
   margin-right: 1rem;
+  font-size: 5rem;
+}
+button {
+  font-size: 5rem;
 }
 
 .form {
   background-color: white;
-  padding: 1rem;
+  padding: 5rem;
   border-radius: 8px;
   text-align: center;
 }
