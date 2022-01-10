@@ -1,0 +1,52 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  background-image: url("http://4.bp.blogspot.com/-UI8aBvOqQ1s/URU2KemTkII/AAAAAAAABTM/g467NFzZbWk/s1600/Ad+Stanne-Motersen.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 0;
+}
+.wu-name {
+  color: #febe10;
+  font-family: "Creepster", cursive;
+  letter-spacing: 2px;
+  line-height: 0.5;
+  text-align: center;
+  text-shadow: 1px 1px #000, 2px 2px #000;
+  font-size: 1rem;
+}
+
+input {
+  margin-right: 1rem;
+}
+
+.form {
+  background-color: white;
+  padding: 1rem;
+  border-radius: 8px;
+  text-align: center;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
